@@ -1,0 +1,26 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html,body{
+  height: 100%;
+  width:100%;
+  background-color:#000;
+  color:white;
+  padding:5vw;
+}
+.container{
+  height:35vh;
+  width:60%;
+  background-color: rgb(82, 82, 82);
+  border-radius: 20px;
+  padding:1vw;
+}
+.container input{
+  height:2.5vw;
+  width:20vw;
+  padding:0.5vw 0.7vw;
+  border: none;
+  border-radius: 10px;
+}
